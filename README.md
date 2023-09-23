@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Amigo Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> Hello! My name is Roughit Srinivasan, and I'm a passionate Full Stack Engineer From the intricacies of frontend development, harnessing the powers of HTML, CSS, and modern JavaScript frameworks, to the complexities of designing, building, and scaling backend systems, I've been through every stage of web application development.
+<p>Welcome to my page! <br> Hello! My name is Roughit Srinivasan, and I'm a passionate Full Stack Engineer From the intricacies of frontend development, harnessing the powers of HTML, CSS, and modern JavaScript frameworks, to the complexities of designing, building, and scaling backend systems, I've been through every stage of web application development.
 
 Over the years, I've worked with a plethora of technologies, including Python, Flask, Docker, React Native, MongoDB, Angular, Spring boot, Java, REST API, and have had the privilege to contribute to projects spanning various industries, from e-commerce platforms and content management systems to innovative startups and enterprise solutions.
 
